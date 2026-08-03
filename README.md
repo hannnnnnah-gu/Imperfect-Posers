@@ -35,5 +35,7 @@ Inspiration:
 
 This project was inspired by the concept of the Multiplicity which is an optimistic view on tech and AI where they work alongside humans in the future. This project shows that AI can be used outside of enforcing rigid perfection and mirror the intricacy of human imperfection. 
 
+<img width="747" height="570" alt="image" src="https://github.com/user-attachments/assets/7a7bb3ac-ec79-4a95-affc-8699cd0f7e97" />
+<img width="762" height="584" alt="image" src="https://github.com/user-attachments/assets/04c61ac4-b9fb-481c-a451-ac1fcb2e275c" />
 
 Made by Hannah Gu for Hack the Arts 2026.
