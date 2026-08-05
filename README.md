@@ -1,4 +1,5 @@
 # Imperfect-Posers
+demo video: https://www.youtube.com/watch?v=9SfbDhzSZ5Y&t=10s 
 Photobooth mimicking game that celebrates human imperfection. Mimic hand drawn poses and create a custom digital photostrip!
 
 Features:
